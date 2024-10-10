@@ -301,5 +301,7 @@ print("Kepykla per diena iskepa: ", output_per_day)
 # git config --global user.name "ramanauksas"
 
 print("nauja versija")
+print("dar viena versija")
+
 
 
