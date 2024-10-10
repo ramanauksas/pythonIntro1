@@ -302,6 +302,7 @@ print("Kepykla per diena iskepa: ", output_per_day)
 
 print("nauja versija")
 print("dar viena versija")
+print("trecias commit")
 
 
 
