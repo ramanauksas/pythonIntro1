@@ -300,4 +300,6 @@ print("Kepykla per diena iskepa: ", output_per_day)
 # git config --global user.email "tomas_ramanauskas@yahoo.com"
 # git config --global user.name "ramanauksas"
 
+print("nauja versija")
+
 
